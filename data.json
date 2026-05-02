@@ -1,0 +1,90 @@
+[
+    {
+        "name": "ankit",
+        "age": 22,
+        "email": "ankit@gmail.com",
+        "pin": 1234,
+        "accountNo.": "1234",
+        "balance": 0
+    },
+    {
+        "name": "abhishek kumar",
+        "age": 23,
+        "email": "abhishek@gmail.com",
+        "pin": 1342,
+        "accountNo.": "17eL0k@",
+        "balance": 1000
+    },
+    {
+        "name": "Akash Dutta",
+        "age": 23,
+        "email": "akash@gmail.com",
+        "pin": 2345,
+        "accountNo.": "x2N@G46",
+        "balance": 0
+    },
+    {
+        "name": "abcde",
+        "age": 26,
+        "email": "kumar@gmail.com",
+        "pin": 6891,
+        "accountNo.": "1^F9K1B",
+        "balance": 0
+    },
+    {
+        "name": "abcdef",
+        "age": 25,
+        "email": "kumar@gmail.com",
+        "pin": 6543,
+        "accountNo.": "20u!jh7",
+        "balance": 0
+    },
+    {
+        "name": "abcdef",
+        "age": 20,
+        "email": "kumar5gmail.com",
+        "pin": 1122,
+        "accountNo.": "22yh%n0",
+        "balance": 10000
+    },
+    {
+        "name": "Ankit",
+        "age": 20,
+        "email": "ankit@gmail.com",
+        "pin": 1234,
+        "accountNo.": "*e2yk32",
+        "balance": 500
+    },
+    {
+        "name": "abhishek",
+        "age": 22,
+        "email": "abhishek@gmail.com",
+        "pin": 9546,
+        "accountNo.": "x8E90Q%",
+        "balance": 0
+    },
+    {
+        "name": "abhishek",
+        "age": 20,
+        "email": "abhishek@gmail.com",
+        "pin": 1122,
+        "accountNo.": "W10hm$4",
+        "balance": 0
+    },
+    {
+        "name": "ankit",
+        "age": 25,
+        "email": "ankit@gmail.com",
+        "pin": 5678,
+        "accountNo.": "4e7yc3!",
+        "balance": 0
+    },
+    {
+        "name": "akash",
+        "age": 30,
+        "email": "akash",
+        "pin": 1234,
+        "accountNo.": "50FH9#X",
+        "balance": 0
+    }
+]
